@@ -177,3 +177,6 @@ hs_err_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java,intellij
 .idea/Java.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
